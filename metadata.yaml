@@ -1,4 +1,8 @@
 _repo: Soldier-Boy_50848
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50848-h/images/cover.jpg
 creator:
   author:
     agent_name: Shaara, Michael
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '35381'
     url: http://www.gutenberg.org/2009/agents/35381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50848#Soldier-Boy
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-05'
 gutenberg_type: Text
